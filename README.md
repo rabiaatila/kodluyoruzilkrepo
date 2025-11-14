@@ -8,9 +8,8 @@ Bu repo *Kodluyoruz Front-Ed Eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 
 Öncelikle projeyi clonelayın (https://github.com/rabiaatila/kodluyoruzilkrepo.git)
 
-'''
-git clone https://github.com/rabiaatila/kodluyoruzilkrepo.git
-'''
+'git clone https://github.com/rabiaatila/kodluyoruzilkrepo.git
+
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
